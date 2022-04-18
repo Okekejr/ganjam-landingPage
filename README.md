@@ -10,7 +10,7 @@ Ganjam is a jewelry store, this project was a redesign of the companys website, 
 #### Live application link
 
 ```
-
+http://ganjam-jewelry.vercel.app/
 ```
 
 ## Stack
