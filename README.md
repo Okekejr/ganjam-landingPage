@@ -7,7 +7,7 @@ Ganjam is a jewelry store, this project was a redesign of the companys website, 
 ![](ganjam.gif)
 
 
-#### Live application link
+#### Live landing-page link
 
 ```
 http://ganjam-jewelry.vercel.app/
